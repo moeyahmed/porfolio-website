@@ -33,7 +33,7 @@ const Contact = () => {
             <div className="contact__card">
               <i className="bx bxl-linkedin contact__card-icon"></i>
 
-              <h3 className="contact__card-title">Whatsapp</h3>
+              <h3 className="contact__card-title">Linkedin</h3>
               <span className="contact__card-data">Mohamed Ahmed</span>
 
               <a
