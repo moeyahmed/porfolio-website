@@ -11,9 +11,9 @@
   --sat: 0%;
   --title-color: hsl(var(--hue), var(--sat), 20%);
   --title-color-dark: hsl(var(--hue), var(--sat), 0%);
-  --text-color: hsl(var(--hue), var(--sat), 46%);
-  --body-color: hsl(var(--hue), var(--sat), 98%);
-  --container-color: #fff;
+  --text-color: #000000;
+  --body-color: #f5f5dc;
+  --container-color: #cfcfba;
 
   /*========== Font and typography ==========*/
   --body-font: "Poppins", sans-serif;
@@ -192,7 +192,7 @@ img {
   body {
     margin: 0 0 var(--header-height) 0;
   }
-  
+
   .section {
     padding: 2rem 0 4rem;
   }

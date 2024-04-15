@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/moey.jpeg";
+import AboutImg from "../../assets/moey3.jpeg";
 import CV from "../../assets/myresume.pdf";
 import Info from "./Info";
 
@@ -17,9 +17,12 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Frontend developer, I create web pages with UI / UX user interface,
-            I have years of experience and many clients are happy with the
-            projects carried out.
+            Hi there! I'm a Frontend Engineer/Security Engineer. I am passionate
+            about frontend development and security engineering. My goal is to
+            create interfaces that are not only visually appealing but also
+            highly secure. I love engaging in activities like penetration
+            testing, working with AWS, and learning about new security
+            technologies.
           </p>
 
           <a download="" href={CV} className="button button--flex">

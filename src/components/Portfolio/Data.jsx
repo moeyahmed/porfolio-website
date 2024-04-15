@@ -1,39 +1,32 @@
 import Work1 from "../../assets/work1.jpg";
 import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
+import Work4 from "../../assets/moey2.jpeg";
 
 export const projectsData = [
   {
     id: 1,
     image: Work1,
     title: "Fin-track",
-    category: "Python projects",
+    category: "Frontend projects",
   },
   {
     id: 2,
     image: Work2,
     title: "Mental math website",
-    category: "Javascript projects",
+    category: "Frontend projects",
   },
   {
     id: 3,
     image: Work3,
     title: "Expense tracker",
-    category: "Javascript projects",
+    category: "Frontend projects",
   },
   {
     id: 4,
     image: Work4,
-    title: "App movil",
-    category: "app",
-  },
-  {
-    id: 5,
-    image: Work5,
-    title: "Web design",
-    category: "web",
+    title: "port scanner",
+    category: "security projects",
   },
 ];
 
@@ -43,12 +36,9 @@ export const projectsNav = [
     name: "all",
   },
   {
-    name: "Python projects",
+    name: "Frontend projects",
   },
   {
-    name: "Javascript projects",
-  },
-  {
-    name: "C++",
+    name: "security projects",
   },
 ];
